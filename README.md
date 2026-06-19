@@ -1,39 +1,46 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Olá, eu sou Jorge 👋
 
-###
+> UX/UI Design · Desenvolvimento Front-end
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+Profissional de tecnologia, com background em **Publicidade e Propaganda** e experiência como **Supervisor Comercial** — onde desenvolvi visão criativa, liderança e foco em experiência do cliente.
 
-###
+Hoje uno design, usabilidade e código para criar experiências digitais centradas em pessoas.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## Sobre mim
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+- 🎨 Interfaces intuitivas com olhar vindo da publicidade e da comunicação estratégica
+- 🧩 Entendo o problema antes de pensar na solução — processo antes de tela
+- 💻 Desenvolvendo habilidades em front-end para aproximar design e tecnologia
+- 🔎 Interesse em pesquisa, usabilidade e melhoria contínua
+- 🤝 Valorizo comunicação clara, colaboração e atenção aos detalhes
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🛠️ Tecnologias e ferramentas
 
-###
+**Design & UX**
+`Figma` `FigJam` `Design Thinking` `UX Research` `Arquitetura da Informação` `Wireframes` `Prototipação` `Testes de usabilidade` `UX Writing`
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+**Desenvolvimento**
+`HTML` `CSS` `JavaScript` `Git` `GitHub`
 
-###
+**Em aprendizado**
+`Vue.js` `Tailwind CSS` `Sass` `Bootstrap`
+
+---
+
+## 🧠 Abordagem
+
+Bons produtos digitais surgem da combinação entre **necessidades reais dos usuários**, **objetivos do negócio** e **tecnologia**. Busco equilibrar estética, funcionalidade e acessibilidade — transformando problemas em soluções simples e eficientes.
+
+---
+
+
+## 📫 Vamos conversar?
+
+Estou sempre aberto a trocar ideias sobre design, tecnologia e criação de produtos digitais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/)
